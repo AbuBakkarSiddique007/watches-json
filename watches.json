@@ -3,13 +3,13 @@
     "id": 1,
     "name": "Classic Leather Watch",
     "brand": "Timeless",
-    "price": 120
+    "price": 100
   },
   {
     "id": 2,
     "name": "Digital Sports Watch",
     "brand": "SpeedX",
-    "price": 80
+    "price": 120
   },
   {
     "id": 3,
