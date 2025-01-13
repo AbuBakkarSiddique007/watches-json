@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Leather Watch",
+    "brand": "Timeless",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name": "Digital Sports Watch",
+    "brand": "SpeedX",
+    "price": 80
+  },
+  {
+    "id": 3,
+    "name": "Luxury Gold Watch",
+    "brand": "Elite",
+    "price": 250
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Series 5",
+    "brand": "TechWear",
+    "price": 300
+  },
+  {
+    "id": 5,
+    "name": "Vintage Analog Watch",
+    "brand": "RetroTime",
+    "price": 150
+  }
+]
